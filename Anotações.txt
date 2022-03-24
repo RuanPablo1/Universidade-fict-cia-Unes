@@ -1,0 +1,33 @@
+Anotações - curso de desenvolvimento web
+
+Tags no HTML
+
+
+- <!DOCTYPE html> = Define que é um documento do tipo HTML;
+- <html lang="en"> = Define a linguagem do documento;
+- <head> </head> = Onde fica todas as configurações do cabeçalho da página (nome, ícone, compatibilidade, etc);
+- <title> </title> = Define o título do site no cabeçalho;
+- <meta> = Tag self closing, que se fecha de forma automática, não necessitando de tag de fechamento;
+- <body> </body> = Corpo do site, onde fica todo o conteúdo;
+- <h1,h2,h3...> </h1> = Tags de destaque (tamanho) para os textos;
+- <hr> = (Horizontal rule) - Linha horizontal utilizada para separar textos
+- <p> </p> = Parágrafo
+- <br> = Quebra de linha;
+- <strong> </strong> ou <b> </b> = Negrito;
+- <em> </em> ou <i> </i> = Itálico;
+- <u> </u> = Underline;
+- <strike> </strike> = Risca o texto no meio, como se estivesse "errado";
+- <ul> </ul> = (Unordered list) - Lista não ordenada; <!-- Pode ser usado com o type (circle, square e disc) para alterar o estilo do marcador -->
+- <ol> </ol> = (Ordered list) - Lista ordenada; <!-- Pode ser usado com o type (1, A, a, I, i) para alterar o estilo do contador --> 
+- <li></li> = (List items) - Listar itens;
+- <img src=""> = Anexa uma imagem ao projeto;
+- <a href=""> </a> = (Anchor) - Cria um hiperlink para outra página;
+- <table border=""> </table> = Cria uma tabela;
+- <tr> </tr> = Cria as linhas da tabela;
+- <td> </td> = (Table data) - Os dados da tabela; <!-- Pode ser utilizado com o rowspam="2" e o colspam="2" Para agrupar linhas e colunas -->
+- <th></th> = (Table header) - É o título ta tabela;
+- <form></form> = Cria um formulário; <!-- Pode ser utilizado com o action="" para enviar os dados para uma outra página de processamento -->
+- <input type="(texte, password, button, submit, radio, checkbox, select)" name=""> = Cria uma box para o usuário digitar um dado;
+- <select name=""> </select> = Cria um controle que apresenta um menu de opções em combo.
+- <option value=""> </option> = São as opções dentro do menu;
+- <textarea> </textarea> = Cria uma caixa de texto um pouco maior (para observações, por exemplo).
